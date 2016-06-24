@@ -1,4 +1,4 @@
-#read me
+#Read Me
 
 Employee Management System
 
